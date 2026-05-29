@@ -1,17 +1,17 @@
-﻿# PiratePrint Updates
+# PiratePrint Updates
 
 This repository hosts the PiratePrint Android APK and update manifest.
 
 Manifest URL:
 
 ``text
-https://raw.githubusercontent.com/hexensohn/PiratePrint-Updates/main/pirateprint-update.json
+https://raw.githubusercontent.com/hexensohn/PiratePrint-Updates/refs/heads/main/pirateprint-update.json
 ``
 
 APK URL:
 
 ``text
-https://raw.githubusercontent.com/hexensohn/PiratePrint-Updates/main/PiratePrint.apk
+https://raw.githubusercontent.com/hexensohn/PiratePrint-Updates/refs/heads/main/PiratePrint.apk
 ``
 
 ## Publishing a new update
